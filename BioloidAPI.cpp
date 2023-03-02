@@ -1,6 +1,6 @@
 
-// Created 2008 by Nikolai Smolyanskiy
-// Defines the API to talk to the Bioloid controller CM5
+// Created 2012 by Nikolai Smolyanskiy
+// Defines the API to talk to the Bioloid Controller CM-5 to control dynamixels
 //
 
 #include "stdafx.h"
