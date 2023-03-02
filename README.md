@@ -33,7 +33,7 @@ See SendTossModeCommand() function that does it in the C++ code below.
 Make sure that the program initializes the COM port communication speed at 57600, since this is the max speed that CM-5 and CM-510 support. 
 See C++ code below for details.
 
-NOTEs: 
+NOTES: 
 - I found that on some PCs this process was not enough. After powering your Bioloid, you need to run RoboPlus Manager from Robotis and connect the app to your Bioloid 
 (press “connect” button) before controlling it from your PC program. The RoboPlus Manager does some non documented communication and the “Toss mode” can be initialized 
 only after that (this used to be the case, it might work as is now)
